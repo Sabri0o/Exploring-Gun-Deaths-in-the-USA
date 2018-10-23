@@ -27,4 +27,4 @@ Each row in the dataset represents a single fatality, the columns contain demogr
    - 'BA+' : At least graduated from College
    - 'NA' : Not available
    
-PS: The ipython file contains contains information on the total population of the US, as well as the total population of each racial group in the US.
+**PS**: The ipynb file contains information on the total population of the US, as well as the total population of each racial group in the US, you can find [here](https://github.com/dataquestio/solutions/blob/master/Mission218Solution.ipynb).
