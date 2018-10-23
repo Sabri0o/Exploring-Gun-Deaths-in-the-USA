@@ -2,8 +2,9 @@
 
 This project is a continuation of the Dataquest guided mission. 
 -----------------------------
-I lead an analyze on USA gun deaths data. 																		
-It contains information on gun deaths in the US from 2012 to 2014. Each row in the dataset represents a single fatality.									 The columns contain demographic and other information about the victim.
+I lead an analyze on USA gun deaths data.
+The dataset contains information on gun deaths in the US from 2012 to 2014. Each row in the dataset represents a single fatality.		
+The columns contain demographic and other information about the victim.
 
 * year : the year in which the fatality occurred.
 * month : the month in which the fatality occurred.
